@@ -1,3 +1,3 @@
 # imagemfundo
-file:///C:/Users/user/Documents/exercicio/imagemfundo/index.html
+https://lipeeso.github.io/imagemfundo/imagemfundo/index.html
 Imagem de Fundo
